@@ -1,0 +1,75 @@
+
+
+
+p {
+
+}
+
+
+
+ul {
+padding-top:0px;
+padding-bottom:0px;
+padding-right:0px;
+padding-left:0px;
+}
+
+li {
+
+}
+
+
+
+a {
+color:#0000A9;
+}
+
+
+a:active {
+color:#0000A9;
+}
+
+#choose-title{
+
+}
+
+#choose-title li{
+display:inline;
+border-left:#000000 solid 0px;
+border-right:#000000 solid 1px;
+border-top:#000000 solid 0px;
+border-bottom:#000000 solid 0px;
+padding-right:5px;
+padding-left:0px;
+}
+
+#dvContent {
+width:300px;
+height:95px;
+display:block;
+background-color:#D2E5F9;
+position:relative;
+top:-10px;
+}
+
+#dvContent ul{
+padding-top:10px;
+padding-left:35px;
+padding-bottom:0px;
+padding-right:0px;
+}
+
+#book-list{
+
+}
+
+#dvTitleContent {
+width:300px;
+height:29px;
+display:block;
+background-color:#D2E5F9;
+text-align:center;
+line-height:2em;
+position:relative;
+top:-10px;
+}
